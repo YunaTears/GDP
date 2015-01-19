@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 5ba9e22bbc938ee4798d123cc667ee8a
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - D: {fileID: 8300000, guid: 60d1950247130c5458e585fcac76203c, type: 3}
+  - E: {fileID: 8300000, guid: d5843a3cafc95604c8baed1bd938eb8b, type: 3}
+  - F: {fileID: 8300000, guid: 30eefe49ab063d54c8aff1521bc3ab70, type: 3}
+  - K: {fileID: 8300000, guid: 51c234aeb742a6e448b752751be6ce98, type: 3}
+  - L: {fileID: 8300000, guid: 26ceb6bd97fa95045b487b9580d3864c, type: 3}
+  - tunnelSound: {fileID: 8300000, guid: fbf55d4002f98fd42bc68a264ffbdd04, type: 3}
+  - crashLowSpeedSound: {fileID: 8300000, guid: 8fdf7b2b9a275f24e964c758b9d39c8b,
+      type: 3}
+  - crashHighSpeedSound: {fileID: 8300000, guid: 1a8e0b2d479335b46bf895bdd06a24a5,
+      type: 3}
+  - skidSound: {fileID: 8300000, guid: e8e17f95a06efd84b9187e3de158d528, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
