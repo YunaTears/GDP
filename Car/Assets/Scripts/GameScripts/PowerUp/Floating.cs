@@ -4,7 +4,8 @@ using System.Collections;
 public class Floating : MonoBehaviour
 {
     public GameObject temp;
-    public float hover = 11f;
+    public float hover = 13f;
+    public float maxHoverHeight = 108.0f;
 
     void Start()
     {
@@ -13,7 +14,7 @@ public class Floating : MonoBehaviour
 
     void Update()
     {
-        if(temp.transform.position.y<107)
+        if(temp.transform.position.y<maxHoverHeight)
         temp.rigidbody.AddForce(Vector3.up * hover, ForceMode.Acceleration);
     }
 }

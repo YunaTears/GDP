@@ -1,0 +1,63 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp.dll
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-define:UNITY_4_6_0
+-define:UNITY_4_6
+-define:UNITY_STANDALONE_WIN
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:UNITY_STANDALONE
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:ENABLE_4_6_FEATURES
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+Assets/Scripts/GameScripts/CheckPoint0.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoin0.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint1.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint2.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint3.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint4.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint5.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint6.cs
+Assets/Scripts/GameScripts/CheckPointScripts/CheckPoint7.cs
+Assets/Scripts/GameScripts/PowerUp/BarrierRotate.cs
+Assets/Scripts/GameScripts/PowerUp/Floating.cs
+Assets/Scripts/GameScripts/PowerUp/Magnet.cs
+Assets/Scripts/GameScripts/PowerUp/PowerUpRNG.cs
+Assets/Scripts/GameScripts/PowerUp/PowerUpState.cs
+Assets/Scripts/GameScripts/PowerUp/Tar.cs
+Assets/Scripts/GameScripts/PowerUp/UsingPowerUp.cs
+Assets/Scripts/GameScripts/SmoothFollow.cs
+Assets/Scripts/GameScripts/Spawn.cs
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Runtime.Serialization.dll"
+-r:"C:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/unity\System.Xml.Linq.dll"

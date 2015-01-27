@@ -46,7 +46,18 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint0.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint1.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint2.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint3.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint4.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint5.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint6.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\CheckPointScripts\CheckPoint7.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\PowerUp\BarrierRotate.cs" />
      <Compile Include="Assets\Scripts\GameScripts\PowerUp\Floating.cs" />
+     <Compile Include="Assets\Scripts\GameScripts\PowerUp\Magnet.cs" />
      <Compile Include="Assets\Scripts\GameScripts\PowerUp\PowerUpRNG.cs" />
      <Compile Include="Assets\Scripts\GameScripts\PowerUp\PowerUpState.cs" />
      <Compile Include="Assets\Scripts\GameScripts\PowerUp\Tar.cs" />
